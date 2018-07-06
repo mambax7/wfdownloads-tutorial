@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![](en/assets/logoXoops.jpg)
 
 # Module WF-Downloads
 #### for XOOPS 2.5.7
       
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ## User Manual
 
@@ -14,7 +14,7 @@
 
 This module is for repository of files that can be downloaded by visitors
 
-![image001.png](en/assets/image001.png)
+![](en/assets/image001.png)
 *Figure 1: Main view of the WF-Downloads Module (Admin side)*
 
 ## Download/Fork the Module ![](en/assets/forkit.png) 
@@ -40,7 +40,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](en/book/9credits.md)
 * [About XOOPS CMS](en/book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
